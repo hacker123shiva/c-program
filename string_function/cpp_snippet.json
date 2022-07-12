@@ -1,0 +1,18 @@
+{
+	 
+    "boilerplate": {
+ 	"prefix": "cpp snip1",
+	"body": [
+	 		"#include<bits/stdc++.h>",
+			"using namespace std;\n",
+			"int main()",
+			"{",
+ 		"\t$2",
+		"cout<<\"S.S Loves M.G\";",
+		"return 0;",
+"}"
+
+		],
+	 	"description": "This is boilerplate of cpp"
+	 }
+}
